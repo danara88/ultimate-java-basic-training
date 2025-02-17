@@ -3,8 +3,6 @@
  * The trainings are in different classes.
  */
 
-import java.util.ArrayList;
-
 /**
  * Notas:
  * Method overloading: Consiste en poder definir mas de una vez el mismo metodo con diferentes parámetros.
@@ -12,6 +10,5 @@ import java.util.ArrayList;
  */
 public class Main {
     public static void main(String[] args) {
-
     }
 }
